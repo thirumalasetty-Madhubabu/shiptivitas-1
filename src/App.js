@@ -4,6 +4,7 @@ import HomeTab from './HomeTab';
 import Navigation from './Navigation';
 import Board from './Board';
 import './App.css';
+import Dragula from 'dragula';
 
 class App extends Component {
   constructor(props) {
